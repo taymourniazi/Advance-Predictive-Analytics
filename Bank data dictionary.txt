@@ -3,7 +3,7 @@
    3 - marital : marital status (categorical: "divorced","married","single","unknown"; note: "divorced" means divorced or widowed)
    4 - education (categorical: "basic.4y","basic.6y","basic.9y","high.school","illiterate","professional.course","university.degree","unknown")
    5 - default: has credit in default? (categorical: "no","yes","unknown")
-   6 - housing: has housing loan? (categorical: "no","yes","unknown")
+   6 - housing: has housing loan? (categorical: "no","yes","unknown")  
    7 - loan: has personal loan? (categorical: "no","yes","unknown")  
    # related with the last contact of the current campaign:
    8 - contact: contact communication type (categorical: "cellular","telephone") 
